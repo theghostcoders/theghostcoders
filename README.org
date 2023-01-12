@@ -1,0 +1,15 @@
+#+TITLE: The Ghost Coders
+
+* Introduction
+  Welcome to *the ghost coders.* In this github we'll be releasing tools for creating and managing _your_ server files.
+
+* Projects
+  - Essential
+    + Installer
+  - Tools For Lulz
+    + dvloger
+    + to-be-continued
+
+=Don't forget to star the repos you like!=
+
+You can contribute to this project by creating issues, pull requests and forks of it. Of course, *if you fork it, insert the repo link in your repo!*
