@@ -6,8 +6,10 @@
 * Projects
   - Essential
     + Installer
+    + GM Commands full documentation (work in progress)
   - Tools For Lulz
-    + doc-commands
+    + NPC Creator (work in progress)
+    + Scene Manager (work in progress)    
     + dvloger
     + to-be-continued
 
