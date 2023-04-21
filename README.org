@@ -1,18 +1,71 @@
 #+TITLE: The Ghost Coders
 
-* Introduction
-  Welcome to *the ghost coders.* In this github we'll be releasing tools for creating and managing _your_ server files.
+** Introdução
 
-* Projects
-  - Essential
-    + Installer
-    + GM Commands full documentation (work in progress)
-  - Tools For Lulz
-    + NPC Creator (work in progress)
-    + Scene Manager (work in progress)    
+  Bem vindos ao *the ghost coders.* :brazil:
+
+  :us: __Foreigners, please use translation. I don't know if you will understand it anyway...__
+
+  Este github é mula, feito pra vocês criarem e mexerem no servidor de vocês.
+
+** O que mudou? Por que PT-BR? O que aconteceu?
+
+  Convertemos ele para :brazil: PT-BR, o que quer dizer que a partir da data da modificação deste ORG, tudo que era :us: EN-US estará como legado, salvo ou arquivado apenas para fins de backup.
+
+  Quando foi criada, a conta tinha o objetivo de documentar e disponibilizar ferramentas para desenvolvimento e manuseio/manutenção/gerenciamento do servidor de vocês. Tudo tinha sido feito em inglês, na esperança de obter ajuda da comunidade internacional, cuja qual, muitos não são falantes da língua portuguesa.
+
+  Porém, toda a ajuda que recebemos no tocante a documentação foi ajuda da comunidade brasileira.
+
+** As exceções: os estrangeiros que ajudaram
+
+  Com relação a ajuda estrangeira, há apenas DUAS exceções:
+  
+  1. Um certo alguém que todos sabem quem é cujo nickname foi pedido para não ser mencionado (e me bloqueou/excluiu no discord ainda kkkk) mas que teve a contribuição MAIS IMPORTANTE para toda a comunidade, parabéns pelo feito, você merece! E obrigado mais uma vez.
+  2. Outra pessoa que não mediu esforços na parte de testes de binários (fuçação sem fim nos arquivos). Obrigado pelo seu tempo e pela sua loucura de mexer com os arquivos mais do que se mexe um misturador de tintas xD.
+
+  Ambos franceses.
+
+  Outros até tentaram ajudar, apreciamos sua ajuda mas estão mencionados aqui os que fizeram a maior diferença. É só olhar nos PR: não há nenhum de estrangeiros até a data, e, fora dos PR, a cena mais forte estava no discord.
+
+** Distanciamento, rant sobre a comunidade.
+
+Aviso de textão: Leia se quiser entender as parada. Senão viva no mundinho do algodão doce, aqui não tem massagem e nem paninho pra vacilação.
+
+Confesso que me distanciei do discord e isso tem me fazido/feito (sla) muito bem, já que há muita toxicidade na parte de 'donos' de servidor, muitos estão arrogantes demais, tem uns que só são donos 'na teoria', isso é desanimador, além é claro, de haver muita trairagem também, *por parte de certas pessoas que nem se quer programam nada e tem que ficar pagando os outros e só sabem dar ls no terminal, segurando fix, tratando solução de problema estrutural como exclusividade, cobrando de quem é opensource sem ter oferecido nada e pedindo pros 'seus' ajoelharem pra ele pq ele é 'foda' kkk baita arrombado do krl...* ~(vlw por quebrar esse na release, mlk, tamo junto)~, 
+
+/Outros que são 'mágicos' com os server files há LITERALMENTE 8 ANOS que não sabiam abrir mapa GM, ou coisas básicas, mas que juram serem os maiorais falando q fizeram td no reverse/ ~(vlw !)!) por quebrar esse aqui tb)~ 
+
+E =alguns nem sabiam instalar ubuntu 22.04 em vps, literalmente 1 click no painel em print q me mandaram= ~(a maior emoção foi quebrar esse, vlw d vdd)~ e seus """ /GMs/ """ que acham que estão no direito de fazer tudo, e isso inclui atitudes fora de jogo, como por exemplo: vir com continha alt fazer graça achando que é a turma da mônica e que ngm percebeu, ou dizer que não escolheria um lado depois de uma treta que beneficiou alguém de maneira CLARA e ficar do lado de vacilão fdp, ou, até mesmo cobrar 20 conto numa gaia, *PUTA QUE PARIU*, e *se vc paga, C É BURRO MANO*, tmnsc.
+
+Quer ter um GF que você concorda com tudo? Abra seu servidor LOCALMENTE, aprenda a mexer com os bagulho, aí joga nele e não enche o saco, não dê trabalho... E não haja como se vc fosse o 'rei do mundo/camarote', você tá usando binários que nem são seus, que você nem sabe como funciona, abre teu olho pra largá a mão de ser besta/idiota/pnc.
+
+Finalizando: *SE VOCÊ NÃO SABE MEXER COM LINUX NEM NA VM, ESQUECE VPS, JOGUE UM SERVER QUE JÁ EXISTE*, ou jogue o seu local, senão *você vai se complicar, ser atacado e ficar dando trabalho, aí a expulsão do grupo do discord é certa e seu choro é bem livre.*
+
+** Projetos? Ferramentas? Cade?
+
+*Por esses motivos* citados acima, projetos novos e ferramentas que forem lançadas podem ser *OU NÃO* open source. Mas que fique claro: não garantimos nada, afinal, se esforçar pra acabar ajudando esses que vivem de se vangloriar, ter o rei na barriga pois seguraram fix por muito tempo, e, agora que a única exclusividade tá na customização dos servidores querem vir sugar conteúdo? Não, obrigado, já tem muita coisa em outros repositórios e se os auto-proclamados Devs do servidor de vocês sabem mesmo desenvolver, poderão se deliciar na documentação ou nos mesmos e criar ferramentas para vocês, caso contrário, é hora de sentar e esperar bastante pelo que pode (ou não) ser lançado.
+
+Até por estar me distanciando um pouco do discord e da cena em geral, os projetos podem demorar a aparecer, minha vontade era de não ajudar mais em nada e ficar ali jogando meu servidorzinho local ou servidores que são 100% f2p, igual fiz em outra cena de jogo private.
+
+* Projetos
+  - Essenciais
+    + Instalador
+    + Documentação completa dos comandos GM (Em progresso, PRs são apreciados)
+    + Emulador (Ainda não iniciado)¹
+  - Ferramentas para loucos
+    + NPC Creator (Em progresso)
+    + Gerenciador de Scenes (Em progresso)
     + dvloger
-    + to-be-continued
+    + ddsconverter
+    + SQL Queries (já disponível em: database/sql)
+    + Editor de Mapas (Ainda não iniciado)²
+    + continua.
 
-=Don't forget to star the repos you like!=
+¹ - Extremamente importante para a sobrevivência a longo prazo do projeto desse jogo.
+² - Diferente do Gerenciador de Scenes, esse é pra editar os mapas (aparência/terrrenos/colisões) do jogo mesmo.
 
-You can contribute to this project by creating issues, pull requests and forks of it. Of course, *if you fork it, insert the repo link in your repo!*
+Importante sobre emulador: em 2011 eu tentei começar um emulador de server pirata em delphi pra esse jogo, como em um certo mmorpg flash da ae (que fiz mas abandonei o projeto), mas, esbarrei em pacotes criptografados e após algum estudo foi descoberto que havia criptografia RSA nos mesmos, devido a estar completamente sozinho naquela empreitada eu desisti cedo. Esse recadinho fica pra quem acha que eu nasci ontem ou que acha que tentou primeiro, até pode ter tentado, mas com exceção de 1 pessoa, o restante tentou da maneira mais burra/bunda mole possível... 99% não sabem o básico e não sabiam o que é Linux/Banco de Dados/etc antes desses vazamentos, sinto pena mas não remorso kkk.
+
+=Não esqueça de deixar estrela nos repositórios que você gostar!=
+
+Você pode contribuir com o projeto criando issues, pull requests, e forkando. Claramente, *se for forkar, insira o link do repositório original no seu repo forkado ou referência.*
