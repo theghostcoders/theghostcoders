@@ -30,23 +30,25 @@
 
 ** Projetos? Ferramentas? Cade?
 
-*Por esses motivos* citados noo artigo do [[https://github.com/theghostcoders/.rantrepo][rant]] acima, projetos novos e ferramentas que forem lançadas podem ser *OU NÃO* open source. Mas que fique claro: não garantimos nada, afinal, se esforçar pra acabar ajudando esses que vivem de se vangloriar, ter o rei na barriga pois seguraram fix por muito tempo, e, agora que a única exclusividade tá na customização dos servidores querem vir sugar conteúdo? Não, obrigado, já tem muita coisa em outros repositórios e se os auto-proclamados Devs do servidor de vocês sabem mesmo desenvolver, poderão se deliciar na documentação ou nos mesmos e criar ferramentas para vocês, caso contrário, é hora de sentar e esperar bastante pelo que pode (ou não) ser lançado.
+*Pelos motivos* citados no artigo do [[https://github.com/theghostcoders/.rantrepo][rant]], projetos novos e ferramentas que forem lançadas podem ser *OU NÃO* open source. Mas que fique claro: não garantimos nada, afinal, se esforçar pra acabar ajudando esses que vivem de se vangloriar, ter o rei na barriga pois seguraram fix por muito tempo, e, agora que a única exclusividade tá na customização dos servidores querem vir sugar conteúdo? Não, obrigado, já tem muita coisa em outros repositórios e se os auto-proclamados Devs do servidor de vocês sabem mesmo desenvolver, poderão se deliciar na documentação ou nos mesmos e criar ferramentas para vocês, caso contrário, é hora de sentar e esperar bastante pelo que pode (ou não) ser lançado.
+
+Que fique claro que não era da minha vontade fazer as coisas dessa maneira, mas, as circunstâncias exigiram mudanças drásticas. A comunidade precisa aprender a ser mais como as comunidades de linux: realmente uma comunidade e não um bando de pessoas se degladiando a toa.
 
 Até por estar me distanciando um pouco do discord e da cena em geral, os projetos podem demorar a aparecer, minha vontade era de não ajudar mais em nada e ficar ali jogando meu servidorzinho local ou servidores que são 100% f2p, igual fiz em outra cena de jogo private.
 
 * Projetos
   - Essenciais
-    + Instalador
-    + Documentação completa dos comandos GM (Em progresso, PRs são apreciados)
+    + [[https://github.com/theghostcoders/serverSetup][Instalador]]
+    + [[https://github.com/theghostcoders/gmcommands][Documentação completa dos comandos GM]] (Em progresso, PRs são apreciados)
     + Emulador (Ainda não iniciado)¹
-  - Ferramentas para loucos
+  - [[https://github.com/theghostcoders/toolsforlulz][Ferramentas para loucos]]
     + NPC Creator (Em progresso)
     + Gerenciador de Scenes (Em progresso)
-    + dvloger
-    + ddsconverter
-    + SQL Queries (já disponível em: database/sql)
+    + [[https://github.com/theghostcoders/toolsforlulz/tree/main/deverbateLogs][dvloger]]
+    + [[https://github.com/theghostcoders/toolsforlulz/tree/main/ddsconverter][ddsconverter]]
+    + [[https://github.com/theghostcoders/toolsforlulz/tree/main/database/sql][SQL Queries]]
     + Editor de Mapas (Ainda não iniciado)²
-    + continua.
+    + a lista continua...
 
 ¹ - Extremamente importante para a sobrevivência a longo prazo do projeto desse jogo.
 ² - Diferente do Gerenciador de Scenes, esse é pra editar os mapas (aparência/terrrenos/colisões) do jogo mesmo.
